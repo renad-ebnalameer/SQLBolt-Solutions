@@ -1,9 +1,6 @@
-# SQLBolt Solutions 
+# SQLBolt Solutions – SQL Practice & Documentation
 
-This repository contains my documented solutions for SQLBolt SQL exercises.
-
-The purpose of this project is to practice and demonstrate my understanding
-of SQL fundamentals through clean, well-structured, and well-documented queries.
+This project highlights my ability to write readable SQL queries, work with relational data, and clearly explain technical concepts.
 
 These solutions are organized for easy reference and showcase my step-by-step learning process.
 
@@ -40,5 +37,4 @@ These solutions are organized for easy reference and showcase my step-by-step le
 - SQLBolt
 
 ## About This Project
-This repository reflects my learning journey in SQL as part of my preparation for a career in Data Analysis. 
-It demonstrates my ability to write clean SQL queries, understand relational data, and document technical solutions clearly. Each lesson is documented with explanations to illustrate both the logic and the results of each query, demonstrating my ability to write clean SQL and understand relational data.
+This repository reflects my learning journey in SQL as part of my preparation for a career in Data Analysis. It demonstrates my ability to write clean SQL queries, understand relational data, and document technical solutions clearly. Each lesson includes explanations that illustrate both the logic and the results of each query.
