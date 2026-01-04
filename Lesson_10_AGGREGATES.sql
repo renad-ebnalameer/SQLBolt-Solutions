@@ -61,3 +61,4 @@ GROUP BY building;
 -- 3. GROUP BY is required when mixing aggregates
 --    with non-aggregated columns
 -- 4. Aggregates are essential for reporting
+
